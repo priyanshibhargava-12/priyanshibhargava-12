@@ -90,7 +90,7 @@ const priyanshi = {
   <details>
     <summary><b>GitHub Profile Trophies 🏆</b></summary>
     <br>
-    <img src="https://github-profile-trophy.vercel.app/?username=priyanshi0112&theme=onestar&no-frame=true&column=4&margin-w=15&margin-h=15" alt="Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=priyanshibhargava-12&theme=onestar&no-frame=true&column=4&margin-w=15&margin-h=15" alt="Trophies" />
   </details>
 
   <details open>
@@ -137,7 +137,7 @@ const priyanshi = {
 ## 📈 Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=priyanshi0112&theme=react-dark&hide_border=true&area=true" width="95%" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=priyanshibhargava-12&theme=react-dark&hide_border=true&area=true" width="95%" alt="Contribution Graph" />
 </div>
 
 <div align="center">
