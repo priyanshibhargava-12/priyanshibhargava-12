@@ -80,8 +80,8 @@ const priyanshi = {
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=priyanshi0112&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=priyanshi0112&theme=tokyonight&hide_border=true&background=0D1117" alt="Streak Stats" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=priyanshibhargava-12&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=priyanshibhargava-12&theme=tokyonight&hide_border=true&background=0D1117" alt="Streak Stats" />
 </div>
 
 ## 🏆 Achievements & Recognition
